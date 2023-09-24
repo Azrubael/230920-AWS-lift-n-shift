@@ -4,6 +4,7 @@
 # misc
 /node_modules
 /.vprofile-demo-aws-LiftAndShift
+/VM/.vagrant/
 
 # Logs
 logs
